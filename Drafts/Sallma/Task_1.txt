@@ -1,0 +1,6 @@
+word file that contains a survay of:
+	- Get the hardware componenets needed
+	- Write the Software
+
+ 
+Note: please commit your task under your folder in Drafts folder

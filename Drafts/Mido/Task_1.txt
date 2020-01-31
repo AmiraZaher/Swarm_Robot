@@ -1,0 +1,7 @@
+word file that contains a survay of:
+	- Search for the optinum protocol 
+	- Start writing its driver
+	- Search for the sensor fusion concept and apply it on the robots
+
+ 
+Note: please commit your task under your folder in Drafts folder

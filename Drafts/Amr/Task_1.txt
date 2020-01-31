@@ -1,0 +1,7 @@
+word file that contains a survay of:
+	- Search for possible modules to communicate between robots 
+	- Search for the way of its implemtation 
+	- Apply it on our algorithm 
+
+ 
+Note: please commit your task under your folder in Drafts folder

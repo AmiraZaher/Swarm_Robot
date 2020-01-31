@@ -1,0 +1,7 @@
+word file that contains a survay of:
+	- Overview of how can we start with ROS
+	- how can we use ROS in our project
+
+
+ 
+Note: please commit your task under your folder in Drafts folder

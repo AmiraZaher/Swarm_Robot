@@ -1,0 +1,6 @@
+word file that contains a survay of:
+	- Get the design
+	- Manufacturing and assembling the robot
+
+ 
+Note: please commit your task under your folder in Drafts folder
